@@ -1,2 +1,1 @@
-# CognoRise-InfoTech-Task-7
-Data Scientist Salaries Analysis/Job Role Analysis
+### Data Scientist Salaries/Job Role Analysis
